@@ -35,24 +35,6 @@ This project is developed using Core Java and demonstrates Object-Oriented Progr
 ---
 
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [How to Run the Project](#how-to-run-the-project)
-- [Project Workflow](#project-workflow)
-- [Discount Policy](#discount-policy)
-- [Sample Console Output](#sample-console-output)
-- [Future Enhancements](#future-enhancements)
-- [Author](#author)
-- [License](#license)
-
-
----
-
-
 ## Features
 
 ### Rental Management
